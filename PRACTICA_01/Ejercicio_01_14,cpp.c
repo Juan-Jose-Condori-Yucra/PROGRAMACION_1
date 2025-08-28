@@ -1,0 +1,6 @@
+// Materia: Programación I, Paralelo 4
+// Autor: Juan Jose Condori Yucra
+// Carnet: 12846096 P.T.
+// Carrera del estudiante: Ingeniería de Mecatronica
+// Fecha creación: 28/08/2025
+// Número de ejercicio:14
